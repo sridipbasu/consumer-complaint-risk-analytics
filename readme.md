@@ -14,13 +14,13 @@ This project explores the CFPB Consumer Complaint Database from a risk analytics
 
 ## Objectives
 
-* Perform exploratory analysis of consumer complaint data.
-* Assess the overall quality and usability of the dataset.
-* Identify complaint trends and patterns over time.
-* Analyze complaint distributions across financial products.
-* Examine company-level complaint patterns.
-* Explore geographic variations in complaints.
-* Generate executive-level insights that could support risk monitoring and decision-making.
+- Perform exploratory analysis of consumer complaint data.
+- Assess the overall quality and usability of the dataset.
+- Identify complaint trends and patterns over time.
+- Analyze complaint distributions across financial products.
+- Examine company-level complaint patterns.
+- Explore geographic variations in complaints.
+- Generate executive-level insights that could support risk monitoring and decision-making.
 
 ---
 
@@ -32,9 +32,7 @@ Due to GitHub file size limitations, the raw dataset is not included in this rep
 
 Instructions for obtaining the dataset are available in:
 
-```text
-data/DATASET_INSTRUCTIONS.md
-```
+`data/DATASET_INSTRUCTIONS.md`
 
 ---
 
@@ -50,7 +48,7 @@ consumer-complaint-risk-analytics/
 │
 ├── notebooks/
 │   ├── 01_risk_analytics_eda.ipynb
-│   └── 02_emerging_risk_nlp.ipynb
+│   └── Yet to come!
 │
 ├── data/
 │   └── DATASET_INSTRUCTIONS.md
@@ -64,33 +62,33 @@ consumer-complaint-risk-analytics/
 
 The analysis focuses on understanding the complaint landscape through multiple perspectives, including:
 
-* Complaint volume trends over time.
-* Product-wise complaint distribution.
-* Company-level complaint patterns.
-* Geographic analysis of complaints.
-* Data quality assessment and validation checks.
-* Identification of patterns that may warrant further investigation by risk and compliance teams.
+- Complaint volume trends over time.
+- Product-wise complaint distribution.
+- Company-level complaint patterns.
+- Geographic analysis of complaints.
+- Data quality assessment and validation checks.
+- Identification of patterns that may warrant further investigation by risk and compliance teams.
 
 ---
 
 ## Tools and Technologies
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-* Scikit-learn
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Scikit-learn
 
 ---
 
 ## Key Takeaways
 
-* Consumer complaint data can provide valuable signals regarding customer pain points and operational challenges.
-* Exploratory analysis helps uncover patterns that may not be immediately visible through summary statistics alone.
-* Combining data quality checks with business-oriented analysis improves the reliability and interpretability of insights.
-* Structured complaint analysis can support proactive risk identification and monitoring efforts.
+- Consumer complaint data can provide valuable signals regarding customer pain points and operational challenges.
+- Exploratory analysis helps uncover patterns that may not be immediately visible through summary statistics alone.
+- Combining data quality checks with business-oriented analysis improves the reliability and interpretability of insights.
+- Structured complaint analysis can support proactive risk identification and monitoring efforts.
 
 ---
 
@@ -112,7 +110,7 @@ This repository is being developed in phases.
 
 The current release focuses on exploratory risk analytics and insight generation using structured complaint data.
 
-The next phase of the project, involving analysis of complaint narratives using natural language processing techniques, is currently ongoing and will be added to this repository in a future update.
+The next phase of the project is currently ongoing and will be added to this repository in a future update.
 
 ---
 

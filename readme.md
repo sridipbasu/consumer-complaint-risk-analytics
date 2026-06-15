@@ -4,6 +4,8 @@
 > 📌 **`notebooks/01-complaint-analysis.ipynb`**
 >
 > The notebook is designed to be read sequentially and contains the complete methodology, analysis, visualizations, findings, and business insights generated from the CFPB Consumer Complaint Database.
+> 
+> **Phase 2 is in progress which involves NLP, please stay tuned!**
 
 An exploratory risk analytics project using the Consumer Financial Protection Bureau (CFPB) Consumer Complaint Database to identify complaint trends, assess data quality, and generate actionable business insights relevant to financial institutions.
 

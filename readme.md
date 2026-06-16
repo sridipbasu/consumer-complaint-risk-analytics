@@ -1,4 +1,4 @@
-# Consumer Complaint Risk Analytics
+# NLP-Driven Consumer Risk Intelligence for UDAAP Monitoring
 > **Reviewer Note:** If you are reviewing this project for recruitment purposes, please start with the notebook below, which serves as the primary artifact for this phase of the project:
 >
 > 📌 **`notebooks/01-complaint-analysis.ipynb`**
